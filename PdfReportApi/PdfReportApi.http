@@ -1,0 +1,6 @@
+@PdfReportApi_HostAddress = http://localhost:5118
+
+GET {{PdfReportApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
